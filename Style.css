@@ -1,0 +1,55 @@
+body{
+    background-image: url('https://epipoca.com.br/wp-content/uploads/2021/05/black-adam-8-social-featured.jpg');
+  }
+  
+  nav a{
+    text-decoration :  none ;
+    color : white
+   
+  }
+  
+  nav li{
+   display: inline-block;
+   margin: 0 0 0 15px;
+   position: relative;
+   right: 50px;
+  
+  }
+  
+  div {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    Color: white
+  }
+  
+  .bot{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 50px;
+  }
+  
+  .bot2{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 150px;
+  }
+  
+  h1{
+    color: white;
+  }
+  
+  div .btn{
+    background-color: var(--cor-primaria-danger);
+      outline: none;
+      color: var(--cor-secundaria-danger);
+  }
+  
+  div .btn2{
+    background-color: var(--cor-primaria-danger);
+      outline: none;
+      color: var(--cor-secundaria-danger)
+  }
